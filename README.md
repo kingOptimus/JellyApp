@@ -2,4 +2,4 @@
 
 And so it begins...
 
-* (Developed by King Optimus Apps) *
+*(Developed by King Optimus Apps)*
